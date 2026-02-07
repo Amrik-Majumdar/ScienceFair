@@ -121,8 +121,7 @@ for d in dists:
 
 ```
 saliency_3d_outputs/
-├── patient_106109_FINAL_CORRECT.html    # Main visualization
-├── patient_106109_HYBRID_BEST.html      # Enhanced version with model toggle
+├── index.html    # Main visualization
 └── README.md                            # This documentation
 ```
 
